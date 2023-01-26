@@ -3,7 +3,7 @@
 This repo is the official System Development Life Cycle study guide 
 written by b4t54ndw1ch.  
 
-Main branch - Table of contents
+# Main branch - Table of contents
 Overview branch - Overview od the SDLC phases
 Planning phase branch
 Analysis phase branch
