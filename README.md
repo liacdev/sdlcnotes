@@ -1,9 +1,20 @@
 # sdlcnotes
 
-This repo is my study guide for System Development Life Cycle.  
+This repo is the official System Development Life Cycle study guide 
+written by b4t54ndw1ch.  
 
-Main branch is currently acting as a table of contents and additional brahcnes will be created per topic as necessary.
-
-A bibliography or references branch will be created to cite sources.
+Main branch - Table of contents
+Overview branch - Overview od the SDLC phases
+Planning phase branch
+Analysis phase branch
+Design phase branch
+Development phase branch
+Testing phase branch
+Deployment phase branch
+Termination phase branch
+Frameworks branch
+Summary branch
+References branch
 
 This is an ongoing, long-term project by b4t54ndw1ch
+
